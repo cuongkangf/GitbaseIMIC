@@ -43,7 +43,7 @@ public class main {
 			System.out.println("+ Họ và tên: "+ oCustomer.sFullname);
 			System.out.println("+ Điện thoại: "+ oCustomer.sPhoneNo);
 		}
-		System.out.println("thay doi trang thai git");
+		System.out.println("thay doi trang thai git lan 3");
 
 	}
 
